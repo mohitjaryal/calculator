@@ -16,5 +16,5 @@ def div(a,b):
 print('Select operation :\n')
 print('1. Add\n')
 print('2. Subtract\n')
-print('3. Add:\n')
+print('3. Multiply\n')
 print('4. Add:\n')
