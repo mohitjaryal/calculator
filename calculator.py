@@ -28,10 +28,10 @@ num2 = float(input('Enter 2nd no. :'))
 if(choice=='1'):
     print('Addition :',add(num1,num2))
 elif(choice=='2'):
-    print('Subtraction :',add(num1,num2))
+    print('Subtraction :',sub(num1,num2))
 elif(choice=='3'):
-    print('Multiplication :',add(num1,num2))
+    print('Multiplication :',mul(num1,num2))
 elif(choice=='4'):
-    print('Division :',add(num1,num2))
+    print('Division :',div(num1,num2))
 else:
     print('Error, Try again')
