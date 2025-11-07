@@ -14,3 +14,4 @@ def div(a,b):
 
 # Options
 print('Select operation :\n')
+print('1. Add:\n')
