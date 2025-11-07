@@ -3,4 +3,7 @@
 def add(a,b):
     return a + b
 
-def 
+def sub(a,b):
+    return a - b
+
+def
