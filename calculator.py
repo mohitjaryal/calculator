@@ -20,7 +20,7 @@ print('3. Multiply\n')
 print('4. Divide\n')
 
 # User input
-choice = input('Enter your choice')
+choice = input('Enter your choice :')
 num1 = float(input('Enter 1st no. :'))
 num2 = float(input('Enter 2nd no. :'))
 
