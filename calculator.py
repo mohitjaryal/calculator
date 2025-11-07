@@ -13,4 +13,4 @@ def div(a,b):
     return a / b
 
 # Options
-print('Enter your choice :')
+print('Enter your choice :\n')
