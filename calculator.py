@@ -14,7 +14,7 @@ def div(a,b):
 
 # Options
 print('Select operation :\n')
-print('1. Add:\n')
-print('2. Subtract:\n')
+print('1. Add\n')
+print('2. Subtract\n')
 print('3. Add:\n')
 print('4. Add:\n')
