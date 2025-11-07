@@ -21,3 +21,4 @@ print('4. Divide\n')
 
 # User input
 choice = input('Enter your choice')
+num1 = float(input('Enter 1st no. :'))
