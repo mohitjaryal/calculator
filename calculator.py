@@ -23,3 +23,7 @@ print('4. Divide\n')
 choice = input('Enter your choice')
 num1 = float(input('Enter 1st no. :'))
 num2 = float(input('Enter 2nd no. :'))
+
+# Main logic
+if(choice=='1'):
+    print('Addition :',add(num1,num2))
